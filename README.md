@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Henry!
 
-<!--
-**hbl-dev/hbl-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a front-end developer passionate about creating intuitive and visually engaging digital experiences. Let's drive digital transformation forward.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Based in Stuttgart, Germanay
+- How to reach me: contact@hbl-dev.com
+- Website: www.hbl-dev.com
+- Currently learning React, Next.js
+
+## Technologies
+
+![Tech Stack](https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,vite,git) 
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hlattauer)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=firefox&logoColor=white)](https://hbl-dev.com)  
+
+
+[![GitHub Banner](GitHub-Banner.png)](https://hbl-dev.com)
+
+---
+
+*Feel free to connect and collaborate!*
