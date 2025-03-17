@@ -7,11 +7,11 @@ I'm a front-end developer passionate about creating intuitive and visually engag
 - Based in Stuttgart, Germanay
 - How to reach me: contact@hbl-dev.com
 - Website: www.hbl-dev.com
-- Currently learning React, Next.js
+- Currently learning TypeScript, React, Next.js
 
 ## Technologies
 
-![Tech Stack](https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,vite,git) 
+![Tech Stack](https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,vite,git) 
 
 ## Connect
 
